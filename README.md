@@ -1,39 +1,66 @@
 # Hi, I'm Syam Sundar 👋
 
-🎓 Computer Science Student
+🎓 B.Tech Student – Artificial Intelligence & Machine Learning (AI/ML)
 
-💻 Full Stack Developer
+🤖 Passionate about AI, Machine Learning, and Data Science
 
-🐍 Python & Flask Developer
+💻 Python & Flask Developer
 
 🗄️ MySQL Database Enthusiast
 
-🤖 Interested in AI and Machine Learning
+🚀 Building Intelligent Web Applications and AI-Powered Solutions
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technical Skills
 
+### Programming Languages
 - Python
+- Java
+- JavaScript
+
+### Web Development
 - Flask
-- MySQL
 - HTML
 - CSS
-- JavaScript
-- Git & GitHub
+- Bootstrap
+
+### Databases
+- MySQL
+
+### AI & Machine Learning
+- Machine Learning
+- Data Analysis
+- Generative AI
+- AI Chatbots
+
+### Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### AI Learning Platform
-AI-powered learning platform with quizzes, authentication and progress tracking.
+### 🤖 AI Learning Platform
+An intelligent learning platform with AI-powered doubt solving, quiz generation, authentication, and progress tracking.
 
-### Placement Management System
-Role-based placement portal for students, recruiters and administrators.
+### 🎯 Placement Management System
+Role-based placement portal for students, recruiters, and administrators.
 
-### Worker Management System
-Attendance, salary and worker management dashboard.
+### 👷 Worker Management System
+A web application for managing worker records, attendance, salaries, and departments.
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning Algorithms
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- Data Structures & Algorithms
 
 ---
 
@@ -45,6 +72,13 @@ Attendance, salary and worker management dashboard.
 
 ---
 
+## 🎯 Career Objective
+
+Aspiring AI & Machine Learning Engineer passionate about building intelligent systems that solve real-world problems using Artificial Intelligence, Data Science, and Software Development.
+
+---
+
 ## 📫 Connect With Me
 
 GitHub: https://github.com/tsyamsundar05-max
+
